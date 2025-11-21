@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+faiss-cpu
+numpy
+python-dotenv
+openai>=1.0.0
+pydantic
+soundfile
+scipy
+transformers
+torch
+tqdm
+librosa
