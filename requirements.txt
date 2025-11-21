@@ -1,0 +1,33 @@
+# --- Core ---
+numpy
+scipy
+pandas
+requests
+
+# --- Audio processing ---
+librosa
+soundfile
+
+# --- Machine Learning / Transformers ---
+torch
+transformers
+tqdm
+
+# --- FAISS ---
+faiss-cpu
+
+# --- FastAPI Backend ---
+fastapi
+uvicorn
+
+# --- Streamlit Frontend ---
+streamlit
+
+# --- OpenAI API ---
+openai
+
+# --- ENV Loader ---
+python-dotenv
+
+# --- Misc ---
+typing-extensions
