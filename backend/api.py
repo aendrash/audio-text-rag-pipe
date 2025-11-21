@@ -40,8 +40,15 @@ def embed_query(text):
     ).data[0].embedding
 
     emb = np.array(emb, dtype="float32")
-    emb = emb.reshape(768, 2).mean(axis=1)
+
+    dim = emb.shape[0]          # 3072
+    target_dim = 768
+    factor = dim // target_dim  # 4
+
+    emb = emb.reshape(target_dim, factor).mean(axis=1)
+
     return emb.reshape(1, -1)
+
 
 
 @app.post("/search")
