@@ -6,6 +6,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from openai import OpenAI
 from dotenv import load_dotenv
+from fastapi.responses import FileResponse
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -71,12 +72,26 @@ def search_audio(q: Query):
     final = []
     for idx, score in results[:5]:
         item = metadata[idx]
+
+        # CONVERT LOCAL PATH → RELATIVE PATH
+        rel_path = item["audio_path"].replace(SRC_DIR + os.sep, "")
+
+        audio_url = f"https://audio-text-rag-pipe.onrender.com/audio/{rel_path}"
+
         final.append({
             "file": item["file"],
             "class": item["class"],
             "description": item["description"],
             "score": float(score),
-            "path": item["audio_path"]
+            "audio_url": audio_url
         })
 
     return {"results": final}
+
+
+
+
+@app.get("/audio/{file_path:path}")
+def get_audio(file_path: str):
+    full_path = os.path.join(SRC_DIR, file_path)
+    return FileResponse(full_path, media_type="audio/wav")

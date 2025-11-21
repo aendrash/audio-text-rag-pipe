@@ -3,7 +3,6 @@ import requests
 
 API_URL = st.secrets["API_URL"]
 
-
 st.title("🎧 AI Audio Search Engine")
 
 query = st.text_input("Describe the sound you want:")
@@ -18,5 +17,4 @@ if st.button("Search"):
             st.subheader(f"{item['file']} — {item['class']}")
             st.write(item["description"])
 
-            with open(item["path"], "rb") as f:
-                st.audio(f.read())
+            st.audio(item["audio_url"])
