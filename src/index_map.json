@@ -1,0 +1,282 @@
+{
+    "0": {
+        "id": 1,
+        "file": "172124__n1ghthawk__pendulum__kick.wav",
+        "class": "drums",
+        "description": "Digital kick sample (tribute to Pendulum)",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\172124__n1ghthawk__pendulum__kick.wav"
+    },
+    "1": {
+        "id": 2,
+        "file": "22500__johnnypanic__ultimatequickkick.wav",
+        "class": "drums",
+        "description": "Kick drum created by layering kicks and bass sounds, using fruity loops. Some filtering and EQ, hard limiting and noise reduction.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\22500__johnnypanic__ultimatequickkick.wav"
+    },
+    "2": {
+        "id": 3,
+        "file": "260541__soneproject__electribe-kicks-slice-61.wav",
+        "class": "drums",
+        "description": "These are samples from the new Korg Electribe EMX2 music production station. The recording quality is not the best, but the sounds are nice; the weird naming is due to the autoslice function in Renoise used to separate the samples from a one-shot recording.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\260541__soneproject__electribe-kicks-slice-61.wav"
+    },
+    "3": {
+        "id": 4,
+        "file": "344963__ezequieltm__dance-snare.mp3",
+        "class": "drums",
+        "description": "dance snare, inspired by MIDI effects",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\344963__ezequieltm__dance-snare.wav"
+    },
+    "4": {
+        "id": 5,
+        "file": "347112__novasoundtechnology__boom-bomb-explode-vox-nova-sound.wav",
+        "class": "drums",
+        "description": "",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\347112__novasoundtechnology__boom-bomb-explode-vox-nova-sound.wav"
+    },
+    "5": {
+        "id": 6,
+        "file": "347113__novasoundtechnology__eracist-hip-hop-snare-drum-nova-sound.wav",
+        "class": "drums",
+        "description": "All original royalty-free Sound FX, Virtual Instruments, Loops and Music by Nova Sound Technology.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\347113__novasoundtechnology__eracist-hip-hop-snare-drum-nova-sound.wav"
+    },
+    "6": {
+        "id": 7,
+        "file": "361256__japanyoshithegamer__8-bit-hi-hat-soft.wav",
+        "class": "drums",
+        "description": "A soft 8-bit hi hat.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\361256__japanyoshithegamer__8-bit-hi-hat-soft.wav"
+    },
+    "7": {
+        "id": 8,
+        "file": "394028__emmithi123__dubstep-kick-drum.wav",
+        "class": "drums",
+        "description": "Dubstep kick made by TIT4N_X: https://soundcloud.com/user-790954586",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\394028__emmithi123__dubstep-kick-drum.wav"
+    },
+    "8": {
+        "id": 9,
+        "file": "396224__cashmerelava__lavender-snare.wav",
+        "class": "drums",
+        "description": "A really nice snare commonly used by future bass or so producers.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\396224__cashmerelava__lavender-snare.wav"
+    },
+    "9": {
+        "id": 10,
+        "file": "411488__lovelyfriendali__kick-1.wav",
+        "class": "drums",
+        "description": "Kick 1 is created by LovelyFriendAli for Freesound.org",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\411488__lovelyfriendali__kick-1.wav"
+    },
+    "10": {
+        "id": 11,
+        "file": "441645__xtrgamr__electom.wav",
+        "class": "drums",
+        "description": "An electric and pretty high tom.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\441645__xtrgamr__electom.wav"
+    },
+    "11": {
+        "id": 12,
+        "file": "519279__logicogonist__sjc-14x7.wav",
+        "class": "drums",
+        "description": "SJC Custom Drums. 14x7 inches (14\u2033x7\u2033). The hoop is aluminum. It is based on an older file uploaded on the snarepack on freesound.org. The attack is looped (double attack). It is a non-edited file in respect of EQ and lacks bass, better used as a layer.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\519279__logicogonist__sjc-14x7.wav"
+    },
+    "12": {
+        "id": 13,
+        "file": "519295__logicogonist__tom-mystic-m.wav",
+        "class": "drums",
+        "description": "The monophonic (stereo-monophonic) version of \"tom mystic L.wav\" and \"tom mystic R.wav\".",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\519295__logicogonist__tom-mystic-m.wav"
+    },
+    "13": {
+        "id": 14,
+        "file": "542910__rippleys_circus__openhihat-9.wav",
+        "class": "drums",
+        "description": "One of many samples from drumkits I own. I wanted to give back to any producers on this website as a thanks for all of the amazing sounds!",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\542910__rippleys_circus__openhihat-9.wav"
+    },
+    "14": {
+        "id": 15,
+        "file": "613939__meklips__snare_1.wav",
+        "class": "drums",
+        "description": "A simple snare-like sound.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\613939__meklips__snare_1.wav"
+    },
+    "15": {
+        "id": 16,
+        "file": "635240__1love__quiz-snare.wav",
+        "class": "drums",
+        "description": "Welcome to the Orange Vintage Drum Kit by 1LOVE.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\635240__1love__quiz-snare.wav"
+    },
+    "16": {
+        "id": 17,
+        "file": "7411__room__kik-sineskick3.wav",
+        "class": "drums",
+        "description": "sinewave kick 3",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\7411__room__kik-sineskick3.wav"
+    },
+    "17": {
+        "id": 18,
+        "file": "763443__soparnik__mouth-kick-drum-with-zoom-h4n.wav",
+        "class": "drums",
+        "description": "A punchy kick sound created entirely with the mouth, recorded using the built-in microphones on the Zoom H4N. This raw, unprocessed sample captures a clean, low-end thump perfect for percussion layering, beatboxing, or experimental sound design.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\763443__soparnik__mouth-kick-drum-with-zoom-h4n.wav"
+    },
+    "18": {
+        "id": 19,
+        "file": "806079__logicogonist__kick-gritty.wav",
+        "class": "drums",
+        "description": "Based on the file https://freesound.org/people/Logicogonist/sounds/805911/ blended with a pitch shifting (mid to bass) sinewave. The attack has an extra fading mid-high sinewave.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\806079__logicogonist__kick-gritty.wav"
+    },
+    "19": {
+        "id": 20,
+        "file": "815173__etheraudio__retro-snare-drum-01023.wav",
+        "class": "drums",
+        "description": "Made in furnace (emulating the x16 computer chip) and then post processed a little in openmpt.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Drums\\815173__etheraudio__retro-snare-drum-01023.wav"
+    },
+    "20": {
+        "id": 101,
+        "file": "11879__medialint__key_chain_shake.wav",
+        "class": "keys",
+        "description": "A shake of a metal keychain with metal keys",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\11879__medialint__key_chain_shake.wav"
+    },
+    "21": {
+        "id": 102,
+        "file": "126490__ayavaron__key_drop-02.wav",
+        "class": "keys",
+        "description": "Dropping keys on the table. This is from a set of dynamic microphone recordings of my keychain being dropped repeatedly on a wooden table.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\126490__ayavaron__key_drop-02.wav"
+    },
+    "22": {
+        "id": 103,
+        "file": "176569__housed1j__metallic-seashells.aiff",
+        "class": "keys",
+        "description": "A brief clip of vigorously shook car keys, pitched down. Adds a more gravely tone to the shaking, which reminded me of sea shells.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\176569__housed1j__metallic-seashells.wav"
+    },
+    "23": {
+        "id": 104,
+        "file": "177288__finestship__keys_01_edited.aiff",
+        "class": "keys",
+        "description": "Sounds for project 1. Keys jingling distorted.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\177288__finestship__keys_01_edited.wav"
+    },
+    "24": {
+        "id": 105,
+        "file": "199748__waveadventurer__put-keys-in-cupboard.mp3",
+        "class": "keys",
+        "description": "Sound effects > Objects / House appliances. Putting a pair of keys attached to a keyring into a small cupboard.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\199748__waveadventurer__put-keys-in-cupboard.wav"
+    },
+    "25": {
+        "id": 106,
+        "file": "30964__junggle__piano_riff_02.wav",
+        "class": "keys",
+        "description": "Piano riff, performed by DJ JaZzy JunGgle. Recorded in cAVe studio Plzen 2007.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\30964__junggle__piano_riff_02.wav"
+    },
+    "26": {
+        "id": 107,
+        "file": "319806__zmobie__keys-3.wav",
+        "class": "keys",
+        "description": "Dropping keys into a glass cup, shaking the cup, taking the keys back out. Recorded in a small shed with a Zoom H2.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\319806__zmobie__keys-3.wav"
+    },
+    "27": {
+        "id": 108,
+        "file": "346755__sergiosmarinis__keys-on-table.wav",
+        "class": "keys",
+        "description": "Keys when fall at a table no fx no eq",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\346755__sergiosmarinis__keys-on-table.wav"
+    },
+    "28": {
+        "id": 109,
+        "file": "409260__wertstahl__002-falling_up.wav",
+        "class": "keys",
+        "description": "Computer or Mobile Chat Message Notification",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\409260__wertstahl__002-falling_up.wav"
+    },
+    "29": {
+        "id": 110,
+        "file": "430928__grupodomarcos__chave02.wav",
+        "class": "keys",
+        "description": "Chaves com chaveiro caindo ao ch\u00e3o.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\430928__grupodomarcos__chave02.wav"
+    },
+    "30": {
+        "id": 111,
+        "file": "441629__xtrgamr__apiano.wav",
+        "class": "keys",
+        "description": "A slightly old upright piano plays a note. Root key is \"A\".",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\441629__xtrgamr__apiano.wav"
+    },
+    "31": {
+        "id": 112,
+        "file": "443957__anational__keys-ring-catch.wav",
+        "class": "keys",
+        "description": "Throwing my keys in the air and catching them. Recorded with yeti USB condenser.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\443957__anational__keys-ring-catch.wav"
+    },
+    "32": {
+        "id": 113,
+        "file": "491409__alvinpianous__2-quang-chinh-pham-keys-fall-down-on-table.wav",
+        "class": "keys",
+        "description": "Quang Chinh Pham - Keys fall down on table MUS152 Garcia",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\491409__alvinpianous__2-quang-chinh-pham-keys-fall-down-on-table.wav"
+    },
+    "33": {
+        "id": 114,
+        "file": "491415__alvinpianous__8-quang-chinh-pham-putting-keys-on-table.wav",
+        "class": "keys",
+        "description": "Quang Chinh Pham - Putting keys on table MUS152 Garcia",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\491415__alvinpianous__8-quang-chinh-pham-putting-keys-on-table.wav"
+    },
+    "34": {
+        "id": 115,
+        "file": "541350__joshuapomeroy__keys-perc.wav",
+        "class": "keys",
+        "description": "Keys dropping in front of a mic.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\541350__joshuapomeroy__keys-perc.wav"
+    },
+    "35": {
+        "id": 116,
+        "file": "555619__fmaudio__keys-jingling.wav",
+        "class": "keys",
+        "description": "Recording of me jingling house keys together. High frequency metal jingle. Recorded with an Aston Origin condenser microphone. Corrective Eq performed.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\555619__fmaudio__keys-jingling.wav"
+    },
+    "36": {
+        "id": 117,
+        "file": "579688__iut_paris8__door-key.wav",
+        "class": "keys",
+        "description": "\"Door+Key\" a \u00e9t\u00e9 enregistr\u00e9 avec un Tascam dr-07mkii(comme tous les autres enregistrements/foley). J'ai attach\u00e9 un trousseau de cl\u00e9s \u00e0 une poign\u00e9e de fen\u00eatre et j'ai ferm\u00e9 nerveusement la fen\u00eatre avec.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\579688__iut_paris8__door-key.wav"
+    },
+    "37": {
+        "id": 118,
+        "file": "586105__spookytwigg__keys-drop-2-louder-and-shorter.wav",
+        "class": "keys",
+        "description": "One of my old recordings that I've edited (blame Humblebundle).",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\586105__spookytwigg__keys-drop-2-louder-and-shorter.wav"
+    },
+    "38": {
+        "id": 119,
+        "file": "660307__kbrecordzz__dropping-money.mp3",
+        "class": "keys",
+        "description": "i'm dropping money on you $$$$",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\660307__kbrecordzz__dropping-money.wav"
+    },
+    "39": {
+        "id": 120,
+        "file": "788053__mediasaur__grab_key.wav",
+        "class": "keys",
+        "description": "Key with a single keychain object being grabbed with a slight scrape on plastic.",
+        "audio_path": "C:\\Users\\LEGION\\project mis\\project\\sound+text+rag+pipe\\preprocessed\\Keys\\788053__mediasaur__grab_key.wav"
+    }
+}

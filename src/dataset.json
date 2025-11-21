@@ -1,0 +1,282 @@
+[
+    {
+        "file": "172124__n1ghthawk__pendulum__kick.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "Digital kick sample (tribute to Pendulum)",
+        "id": 1
+    },
+    {
+        "file": "22500__johnnypanic__ultimatequickkick.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "Kick drum created by layering kicks and bass sounds, using fruity loops. Some filtering and EQ, hard limiting and noise reduction.",
+        "id": 2
+    },
+    {
+        "file": "260541__soneproject__electribe-kicks-slice-61.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "These are samples from the new Korg Electribe EMX2 music production station. The recording quality is not the best, but the sounds are nice; the weird naming is due to the autoslice function in Renoise used to separate the samples from a one-shot recording.",
+        "id": 3
+    },
+    {
+        "file": "344963__ezequieltm__dance-snare.mp3",
+        "format": "mp3",
+        "class": "drums",
+        "clean_description": "dance snare, inspired by MIDI effects",
+        "id": 4
+    },
+    {
+        "file": "347112__novasoundtechnology__boom-bomb-explode-vox-nova-sound.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "",
+        "id": 5
+    },
+    {
+        "file": "347113__novasoundtechnology__eracist-hip-hop-snare-drum-nova-sound.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "All original royalty-free Sound FX, Virtual Instruments, Loops and Music by Nova Sound Technology.",
+        "id": 6
+    },
+    {
+        "file": "361256__japanyoshithegamer__8-bit-hi-hat-soft.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "A soft 8-bit hi hat.",
+        "id": 7
+    },
+    {
+        "file": "394028__emmithi123__dubstep-kick-drum.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "Dubstep kick made by TIT4N_X: https://soundcloud.com/user-790954586",
+        "id": 8
+    },
+    {
+        "file": "396224__cashmerelava__lavender-snare.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "A really nice snare commonly used by future bass or so producers.",
+        "id": 9
+    },
+    {
+        "file": "411488__lovelyfriendali__kick-1.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "Kick 1 is created by LovelyFriendAli for Freesound.org",
+        "id": 10
+    },
+    {
+        "file": "441645__xtrgamr__electom.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "An electric and pretty high tom.",
+        "id": 11
+    },
+    {
+        "file": "519279__logicogonist__sjc-14x7.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "SJC Custom Drums. 14x7 inches (14\u2033x7\u2033). The hoop is aluminum. It is based on an older file uploaded on the snarepack on freesound.org. The attack is looped (double attack). It is a non-edited file in respect of EQ and lacks bass, better used as a layer.",
+        "id": 12
+    },
+    {
+        "file": "519295__logicogonist__tom-mystic-m.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "The monophonic (stereo-monophonic) version of \"tom mystic L.wav\" and \"tom mystic R.wav\".",
+        "id": 13
+    },
+    {
+        "file": "542910__rippleys_circus__openhihat-9.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "One of many samples from drumkits I own. I wanted to give back to any producers on this website as a thanks for all of the amazing sounds!",
+        "id": 14
+    },
+    {
+        "file": "613939__meklips__snare_1.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "A simple snare-like sound.",
+        "id": 15
+    },
+    {
+        "file": "635240__1love__quiz-snare.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "Welcome to the Orange Vintage Drum Kit by 1LOVE.",
+        "id": 16
+    },
+    {
+        "file": "7411__room__kik-sineskick3.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "sinewave kick 3",
+        "id": 17
+    },
+    {
+        "file": "763443__soparnik__mouth-kick-drum-with-zoom-h4n.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "A punchy kick sound created entirely with the mouth, recorded using the built-in microphones on the Zoom H4N. This raw, unprocessed sample captures a clean, low-end thump perfect for percussion layering, beatboxing, or experimental sound design.",
+        "id": 18
+    },
+    {
+        "file": "806079__logicogonist__kick-gritty.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "Based on the file https://freesound.org/people/Logicogonist/sounds/805911/ blended with a pitch shifting (mid to bass) sinewave. The attack has an extra fading mid-high sinewave.",
+        "id": 19
+    },
+    {
+        "file": "815173__etheraudio__retro-snare-drum-01023.wav",
+        "format": "wav",
+        "class": "drums",
+        "clean_description": "Made in furnace (emulating the x16 computer chip) and then post processed a little in openmpt.",
+        "id": 20
+    },
+    {
+        "file": "11879__medialint__key_chain_shake.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "A shake of a metal keychain with metal keys",
+        "id": 101
+    },
+    {
+        "file": "126490__ayavaron__key_drop-02.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Dropping keys on the table. This is from a set of dynamic microphone recordings of my keychain being dropped repeatedly on a wooden table.",
+        "id": 102
+    },
+    {
+        "file": "176569__housed1j__metallic-seashells.aiff",
+        "format": "aiff",
+        "class": "keys",
+        "clean_description": "A brief clip of vigorously shook car keys, pitched down. Adds a more gravely tone to the shaking, which reminded me of sea shells.",
+        "id": 103
+    },
+    {
+        "file": "177288__finestship__keys_01_edited.aiff",
+        "format": "aiff",
+        "class": "keys",
+        "clean_description": "Sounds for project 1. Keys jingling distorted.",
+        "id": 104
+    },
+    {
+        "file": "199748__waveadventurer__put-keys-in-cupboard.mp3",
+        "format": "mp3",
+        "class": "keys",
+        "clean_description": "Sound effects > Objects / House appliances. Putting a pair of keys attached to a keyring into a small cupboard.",
+        "id": 105
+    },
+    {
+        "file": "30964__junggle__piano_riff_02.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Piano riff, performed by DJ JaZzy JunGgle. Recorded in cAVe studio Plzen 2007.",
+        "id": 106
+    },
+    {
+        "file": "319806__zmobie__keys-3.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Dropping keys into a glass cup, shaking the cup, taking the keys back out. Recorded in a small shed with a Zoom H2.",
+        "id": 107
+    },
+    {
+        "file": "346755__sergiosmarinis__keys-on-table.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Keys when fall at a table no fx no eq",
+        "id": 108
+    },
+    {
+        "file": "409260__wertstahl__002-falling_up.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Computer or Mobile Chat Message Notification",
+        "id": 109
+    },
+    {
+        "file": "430928__grupodomarcos__chave02.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Chaves com chaveiro caindo ao ch\u00e3o.",
+        "id": 110
+    },
+    {
+        "file": "441629__xtrgamr__apiano.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "A slightly old upright piano plays a note. Root key is \"A\".",
+        "id": 111
+    },
+    {
+        "file": "443957__anational__keys-ring-catch.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Throwing my keys in the air and catching them. Recorded with yeti USB condenser.",
+        "id": 112
+    },
+    {
+        "file": "491409__alvinpianous__2-quang-chinh-pham-keys-fall-down-on-table.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Quang Chinh Pham - Keys fall down on table MUS152 Garcia",
+        "id": 113
+    },
+    {
+        "file": "491415__alvinpianous__8-quang-chinh-pham-putting-keys-on-table.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Quang Chinh Pham - Putting keys on table MUS152 Garcia",
+        "id": 114
+    },
+    {
+        "file": "541350__joshuapomeroy__keys-perc.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Keys dropping in front of a mic.",
+        "id": 115
+    },
+    {
+        "file": "555619__fmaudio__keys-jingling.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Recording of me jingling house keys together. High frequency metal jingle. Recorded with an Aston Origin condenser microphone. Corrective Eq performed.",
+        "id": 116
+    },
+    {
+        "file": "579688__iut_paris8__door-key.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "\"Door+Key\" a \u00e9t\u00e9 enregistr\u00e9 avec un Tascam dr-07mkii(comme tous les autres enregistrements/foley). J'ai attach\u00e9 un trousseau de cl\u00e9s \u00e0 une poign\u00e9e de fen\u00eatre et j'ai ferm\u00e9 nerveusement la fen\u00eatre avec.",
+        "id": 117
+    },
+    {
+        "file": "586105__spookytwigg__keys-drop-2-louder-and-shorter.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "One of my old recordings that I've edited (blame Humblebundle).",
+        "id": 118
+    },
+    {
+        "file": "660307__kbrecordzz__dropping-money.mp3",
+        "format": "mp3",
+        "class": "keys",
+        "clean_description": "i'm dropping money on you $$$$",
+        "id": 119
+    },
+    {
+        "file": "788053__mediasaur__grab_key.wav",
+        "format": "wav",
+        "class": "keys",
+        "clean_description": "Key with a single keychain object being grabbed with a slight scrape on plastic.",
+        "id": 120
+    }
+]
